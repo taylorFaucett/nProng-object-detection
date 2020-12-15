@@ -1,0 +1,1 @@
+rsync -chavzP --stats tfaucett@uclhc-1.ps.uci.edu:/DFS-L/DATA/atlas/tfaucett/semi-visible-jets-ml/data/root_exports ~/Dropbox/Projects/semi-visible-jets-ml/data/ > rsync.log
